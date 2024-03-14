@@ -1,2 +1,9 @@
-# Designing-And-Developing-for-GIS
-A professional required course for the major of geographic information science. The course content is mainly for the development of WebGIS. The reference book is the development guide for ArcGIS API for JavaScript.
+
+## Environment
++ Python 3.6
++ PyTorch 1.7.1
++ tensorboardx  2.1
++ numpy 1.19.2
++ tqdm   4.55.0
++ matplotlib 3.3.2
+
